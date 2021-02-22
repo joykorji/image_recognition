@@ -1,5 +1,5 @@
 # image_recognition
-
+@authors: Joy Korji & Malou Merotivz.
 #The goal of this program is to apply connected component analysis and feature extraction on images using algorithms like Raw-by-Raw labeling algorithm.
 #It will report on all objects found in a gray-level input image. 
 #The program performs thresholding and cleaning using morphological filters (for morphological filters external library were used).
