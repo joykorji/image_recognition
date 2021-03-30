@@ -1,4 +1,4 @@
-![_Luxury Black and Gold Real Estate Logo](https://user-images.githubusercontent.com/47510906/112923716-c529fc00-90dc-11eb-8b14-c501f207088e.png)
+
 # image_recognition
 @authors: Joy Korji & Malou Merotivz.
 #The goal of this program is to apply connected component analysis and feature extraction on images using algorithms like Raw-by-Raw labeling algorithm.
